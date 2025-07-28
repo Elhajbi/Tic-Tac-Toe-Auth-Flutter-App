@@ -14,12 +14,6 @@ Une application Flutter simple combinant un système d’authentification basiqu
 
 ---
 
-## Screenshots
-
-*(Ajouter ici des captures d’écran de ton application)*
-
----
-
 ## Technologies utilisées
 
 - Flutter
