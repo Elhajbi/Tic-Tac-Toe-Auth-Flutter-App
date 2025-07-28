@@ -65,6 +65,6 @@ lib/
 ## Auteur
 
 **Abdelkarim El Hajbi** – Full Stack Flutter Developer  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdelkarim-el-hajbi)  
-💻 [GitHub](https://github.com/abdelkarimel)
+🔗 [LinkedIn](https://www.linkedin.com/in/abdelkarim-el-hajbi-65b783160/)  
+💻 [GitHub](https://github.com/Elhajbi)
 
